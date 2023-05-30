@@ -7,6 +7,5 @@ Sokoban은 창고지기 게임이라고 불리는 게임입니다.
 
 # Video
 
-```
-<img width="80%" src="https://github.com/juni5184/Sokoban/assets/31072193/3e051baf-078c-4036-b737-b474d77b84d6"/>
-```
+![sokoban_video_low](https://github.com/juni5184/Sokoban/assets/31072193/f4be0325-9da1-4223-831e-66a45ea6f417)
+
